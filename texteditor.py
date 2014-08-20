@@ -1,5 +1,5 @@
 #Basic Text Editor built with tkinter with some features such as: save, open, clear, copy, paste, word count
-#Ambarish G
+#A.G.
 #July 14, 2014
 
 from tkinter import *
